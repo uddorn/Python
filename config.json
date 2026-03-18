@@ -1,0 +1,7 @@
+{
+    "text_file": "Steve_Jobs.txt",
+    "target_language": "sl",
+    "module": "module3",
+    "output": "screen",
+    "max_sentences": 4
+}
